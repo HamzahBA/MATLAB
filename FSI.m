@@ -366,4 +366,4 @@ for i=2:Nt
     %     end
 end
 
-save('Figures/SymTwoAneurysmDef.mat','u0pulse','dt','Nx','Ny','Re','Psol','Qsol','Xsol','Ysol')
+save('SymTwoAneurysmDef.mat','u0pulse','dt','Nx','Ny','Re','Psol','Qsol','Xsol','Ysol')
